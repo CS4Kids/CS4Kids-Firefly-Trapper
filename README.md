@@ -23,5 +23,5 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/CS4Kids/CS4Kids-firefly-trapper/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/CS4Kids/CS4Kids-firefly-trapper/raw/main/.github/makecode/blocks.png)
 
